@@ -1,0 +1,9 @@
+{
+  "name": "Розклад СС-25-1фмб-hm",
+  "short_name": "Розклад",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "lang": "uk"
+}
